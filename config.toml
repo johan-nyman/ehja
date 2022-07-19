@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+theme = "ananke"
+
+defaultContentLanguage = 'en'
+[languages]
+  [languages.fi]
+    title = 'Minu Blogi'
+    weight = 2
+  [languages.en]
+    title = 'My blog'
+    weight = 1
+  [languages.sv]
+    title = 'Min Blog'
+    weight = 2
