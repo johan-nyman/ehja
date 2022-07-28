@@ -1,14 +1,14 @@
 baseURL = 'https://ativnos.github.io/ehja/'
 theme = "ananke"
 
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'fi'
 [languages]
   [languages.fi]
-    title = 'Minu Blogi'
-    weight = 2
-  [languages.en]
-    title = 'My blog'
+    title = 'Ehjä Ry'
     weight = 1
+  [languages.en]
+    title = 'Intact Finland'
+    weight = 3
   [languages.sv]
-    title = 'Min Blog'
+    title = 'Intakt Rf'
     weight = 2
