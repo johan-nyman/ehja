@@ -2,4 +2,4 @@
 
 ---
 
-The association's purpose is to promote children's right to their own bodies, primarily focused on genital autonomy.
+Yhdistyksen tarkoituksena on edistää lasten oikeutta omaan ruumiiseensa. Toiminta kohdistuu ensisijaisesti sukupuolielinten autonomian aihealueeseen.

@@ -4,11 +4,11 @@ theme = "ananke"
 defaultContentLanguage = 'fi'
 [languages]
   [languages.fi]
-    title = 'Ehjä Ry'
+    title = 'Ehjä ry'
     weight = 1
   [languages.en]
     title = 'Intact Finland'
     weight = 3
   [languages.sv]
-    title = 'Intakt Rf'
+    title = 'Intakt rf'
     weight = 2
