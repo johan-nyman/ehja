@@ -1,4 +1,4 @@
-baseURL = 'https://ativnos.github.io/ehja/'
+baseURL = 'https://intaktfinland.fi/'
 theme = "ananke"
 
 defaultContentLanguage = 'fi'
