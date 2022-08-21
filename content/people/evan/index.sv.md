@@ -1,6 +1,6 @@
 ---
 title: "Evan Roman"
-description: "Folk"
+description: "Personer"
 ---
 
 evan@intaktfinland.fi
