@@ -1,5 +1,6 @@
 ---
 title: "Evan Roman"
+description: "Ihmiset"
 ---
 
 evan@intaktfinland.fi
