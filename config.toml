@@ -4,14 +4,17 @@ theme = "ananke"
 defaultContentLanguage = 'fi'
 [languages]
   [languages.fi]
+    languageCode = 'fi'
     description = 'Ehjä ry:en tarkoituksena on edistää lasten oikeutta omaan ruumiiseensa. Toiminta kohdistuu ensisijaisesti sukupuolielinten autonomian aihealueeseen.'
     title = 'Ehjä ry'
     weight = 1
   [languages.en]
+    languageCode = 'en'
     description = 'Intact Finland promotes children’s right to their own bodies, primarily focused on genital autonomy.'
     title = 'Intact Finland'
     weight = 3
   [languages.sv]
+    languageCode = 'sv'
     description = 'Intakt rf syfte är att främja barns rätt till sin egen kropp, främst genom aktivitet inom området genital autonomi.' 
     title = 'Intakt rf'
     weight = 2
